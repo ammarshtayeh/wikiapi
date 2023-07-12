@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+#search-input {
+    margin: 0 0 0 40%;
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+}
+#search-results {
+    color: rgb(108, 150, 54);
+    margin-top: 10px;
+}
+.search-result {
+    margin-bottom: 5px;
+}
